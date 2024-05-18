@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Cuheyman Kaya</h1>
 <h3 align="center">A passionate Software Engineering from Denmark</h3>
 
