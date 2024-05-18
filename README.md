@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Cuheyman Kaya</h1>
 <h3 align="center">A passionate Software Engineering from Denmark</h3>
 
-- 🔭 I’m currently working on **Developing myself in Javascript, React etc.**
 
 - 🌱 I’m currently learning **Next.js, Tailwindcss and TypeScript**
 
