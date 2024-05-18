@@ -12,7 +12,8 @@
 
 - 📄 Know about my experiences [My Website has my resume](My Website has my resume)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:cuheymankaya@live.dk || +45 53 83 31 36 || www.linkedin.com/in/cuheyman-kaya-61550213a </h3>
+
 <p align="left">
 </p>
 
